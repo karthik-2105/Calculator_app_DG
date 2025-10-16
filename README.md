@@ -1,5 +1,7 @@
 # Simple Calculator App (Python)
 
+[![CI Pipeline for Calculator App](https://github.com/karthik-2105/Calculator_app_DG/actions/workflows/main.yml/badge.svg)](https://github.com/karthik-2105/Calculator_app_DG/actions/workflows/main.yml)
+
 Files:
 - app/calculator.py : calculator functions (add, subtract, multiply)
 - tests/test_calculator.py : pytest unit tests
